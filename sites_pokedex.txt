@@ -1,0 +1,18 @@
+figma site pokemon-
+https://www.figma.com/file/eFDLdkADMjaFawtnWJ0nn2/Pok%C3%A9dex-(Community)?node-id=346%3A11868
+
+biblioteca api https://pokeapi.co/
+https://pokeapi.co/api/v2/pokemon/ditto
+
+
+titulo
+//styleName: Poppins Bold 24;
+font-family: Poppins;
+font-size: 24px;
+font-weight: 700;
+line-height: 32px;
+letter-spacing: 0em;
+text-align: left;
+background: #212121;
+
+
