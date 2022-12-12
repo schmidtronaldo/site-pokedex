@@ -19,11 +19,18 @@
 .header{
     display:flex;
     flex-direction:column;
+   
+}
+.header_logo{
+    width: 10%;
+    height:10%;
+
 }
 .div_titulo {
     display:flex;
     gap:1px;
     margin-left:10px;
+    align-items:center;
 
 }
 .titulo {
@@ -75,21 +82,19 @@
 }
 
 .card_img {
-    width:60%;
+    width:50%;
+    height:50%;
 
 }
 
 @media screen and (min-width: 901px) {
-    body{
-        margin:auto;
-        max-width:50vw;
-    } 
     
     .principal{
        
         grid-template-columns: repeat(4 ,1fr);
+
         
-       
+        
     }
 
 }
