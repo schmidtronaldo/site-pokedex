@@ -1,6 +1,6 @@
     
     let offset = 0;
-    let limit = 6;
+    let limit = 9;
     let $ = document.createElement.bind(document);
     let principal = document.querySelector('.principal');
 
